@@ -1,0 +1,14 @@
+https://github.com/googlevr/gvr-unity-sdk/releases  ***Google Vr
+https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277 ***DigitalKonstrukt [Columns & Doors]
+https://assetstore.unity.com/packages/2d/textures-materials/roof-textures-5844 ***Roof in HausScene [Wooden_Roof_03]
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633 ***SkyBox Anuschaa 
+https://assetstore.unity.com/packages/2d/textures-materials/wood/dark-wood-texture-11092 ***DarkWood [512]
+https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213 ***WoodenFloor[Wooden_Floor_03]
+https://assetstore.unity.com/packages/3d/environments/fantasy/dark-fantasy-kit-free-127925 *** [Meshes/Steps/Materials & dfk_Wall_1_door]
+https://assetstore.unity.com/packages/2d/textures-materials/brick/tileable-bricks-wall-24530 ***Tilable Brick Wall [Textures/Bricks_diffuse &&_normal&&_height]
+https://assetstore.unity.com/packages/2d/textures-materials/wood/high-quality-realistic-wood-textures-mega-pack-75831 ***Mezanis Realistic Wood
+https://github.com/resonance-audio/resonance-audio-unity-sdk ***Resonance Audio für Audio
+https://assetstore.unity.com/packages/3d/props/interior/simple-books-pack-116242 ***Modell für Buch
+TextMeshPro Unity
+//Stand 01.03.2019 
+
